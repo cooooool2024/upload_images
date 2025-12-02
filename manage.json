@@ -1,0 +1,22 @@
+{
+  "picBed": {
+    "sftp-腾讯": {
+      "alias": "sftp-腾讯",
+      "host": "43.139.163.129",
+      "port": 22,
+      "username": "root",
+      "password": "",
+      "privateKey": "E:\\2026\\常用资料\\huoshan.pem",
+      "passphrase": "",
+      "fileMode": "0664",
+      "dirMode": "0755",
+      "baseDir": "/opt/1panel/www/sites/images.coogle.top/index",
+      "customUrl": "http://images.coogle.top:8443",
+      "bucketName": "sftp",
+      "webPath": "/",
+      "picBedName": "sftp",
+      "transformedConfig": "{\"sftp\":{\"baseDir\":\"/opt/1panel/www/sites/images.coogle.top/index\",\"area\":\"\",\"customUrl\":\"http://images.coogle.top:8443\",\"operator\":\"\",\"password\":\"\"}}"
+    }
+  },
+  "settings": {}
+}
